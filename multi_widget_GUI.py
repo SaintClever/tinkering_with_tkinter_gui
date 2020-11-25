@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 from tkinter import *
+from ascii_art import saint_clever
 
-
+print(saint_clever)
 window = Tk()
 
 
